@@ -1,0 +1,23 @@
+# Build outputs
+build/
+build-*/
+out/
+*.o
+*.obj
+*.exe
+*.pdb
+**/source/drivelab
+
+# Local editor and tool state
+.cache/
+.vscode/
+.idea/
+CMakeUserPresets.json
+compile_commands.json
+.DS_Store
+Thumbs.db
+
+# Runtime and temporary output
+*.log
+*.tmp
+*~
