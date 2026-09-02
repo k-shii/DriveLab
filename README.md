@@ -4,7 +4,7 @@ DriveLab is a Linux-first terminal project for guided storage workflows. The
 current published snapshot focuses on the interface and interaction model that
 later versions will connect to production storage providers.
 
-![DriveLab 0.1.0 interface prototype](0.1.0/screenshots/0.1.0-demo1.png)
+![DriveLab 0.1.0 interface prototype](0.1.0/screenshots/0.1.0-demo3.png)
 
 ## Current Published Version
 
