@@ -25,13 +25,10 @@ changes bundled together.
 
 ## Building
 
-For the current published 0.1.0 interface prototype:
+Build and test instructions are kept with each published release.
 
-```bash
-cd 0.1.0/source
-g++ -std=c++17 -O0 -g -Wall -Wextra *.cpp -lncursesw -pthread -o drivelab
-./drivelab --demo
-```
+- [Current release](0.2.0/)
+- [Versioned snapshots](./)
 
 ## License
 Licensing and contribution terms are still being decided.
