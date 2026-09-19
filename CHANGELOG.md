@@ -3,6 +3,21 @@
 This file tracks the versions prepared in this repository. Each version
 directory keeps its own frozen changelog.
 
+## DriveLab 0.3.0 — Discovery and Safety
+
+0.3.0 adds real Linux storage awareness and the live, read-only terminal
+interface.
+
+- Added native discovery, stable identity, host-usage and ownership analysis.
+- Added READY, BUSY, CAUTION and RESTRICTED states with Overview/Evidence views.
+- Added early inventory with SCANNING, rescanning and disk/optical distinction.
+- Reduced production scan time while retaining conservative completeness checks.
+- Passed 22/22 native tests and real Ubuntu qualification, with Proxmox ownership
+  stress testing.
+
+Health diagnostics, benchmarks and sanitisation remain later work.
+Read the [full 0.3.0 changelog](0.3.0/CHANGELOG-0.3.0.md).
+
 ## DriveLab 0.2.0 — Core Architecture
 
 0.2.0 is mostly an under-the-hood update. The interface still looks much like

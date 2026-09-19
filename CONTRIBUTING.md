@@ -27,7 +27,7 @@ changes bundled together.
 
 Build and test instructions are kept with each published release.
 
-- [Current release](0.2.0/)
+- [Current release](README.md#current-published-version)
 - [Versioned snapshots](./)
 
 ## License
