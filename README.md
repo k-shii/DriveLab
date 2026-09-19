@@ -57,7 +57,7 @@ Each published version keeps its own source and documentation:
 
 ## Current Direction
 
-Next is 0.4.x: SMART and health diagnostics, clearer health explanations and
+Next is 0.4.0: SMART and health diagnostics, clearer health explanations and
 self-tests. Scan efficiency, startup behaviour, terminal/SSH compatibility and
 device-kind presentation will also get further attention.
 
